@@ -14,7 +14,7 @@
         <connection id="b83194c5-f252-4e3b-bc0a-bf8d4433396f" name="qarsf">
           <summary>qarsf</summary>
           <connectionUrls>
-            <connectionUrl secureStorageNodeId="4a3a2b82-16f9-4e0d-9cf0-b214b07ed049" url="sf:user=cboyapati@rootstock.com.qarsf;password={password};securityToken={securityToken};environment=PROD_DEV;lightningMode=true"/>
+            <connectionUrl secureStorageNodeId="4a3a2b82-16f9-4e0d-9cf0-b214b07ed049" url="sf:user=cboyapati@rootstock.com.qarsf;password={password};securityToken={securityToken};environment=PROD_DEV;"/>
           </connectionUrls>
         </connection>
       </connections>
